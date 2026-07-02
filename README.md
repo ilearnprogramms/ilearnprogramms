@@ -6,7 +6,7 @@
 -->
 - 🧙‍♂️ Welcome to my GitHub profile.
 - 🧋 I'm trying to improve myself and wanna learn coding languages for career and fun.   
-- 🍵 I am finishing my Backend Java Development course. Currently Preparing to present my Final Project. 
-- 🐈‍⬛ I have a fatass cat that loves to photobomb my camera when I'm in a zoom class.
+- 🍵 I finished my Backend Java Development course. Currently Finding fun ways to improve my Java and Backend knowledge. 
+- 🐈‍⬛ I have a fatass cat that I love so much. His name is Tian!
 
 - 🙇🏻‍♂️ Hopefully I'll add more stuff/projects etc. on GitHub once I know more about coding and can write programms.
