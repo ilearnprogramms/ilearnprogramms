@@ -6,6 +6,6 @@
 -->
 - 🧙‍♂️ Welcome to my GitHub profile.
 - 🧋 I'm trying to improve myself and wanna learn programming languages for career and fun.   
-- 🍵 I finished my Backend Java Development course. Currently Finding fun ways to improve my programming knowledge. 
+- 🍵 I finished my Back-end Java Development course. Currently Finding fun ways to improve my programming knowledge. 
 
-- 🙇🏻‍♂️ Hopefully I'll add more stuff/projects etc. on GitHub once I know more about coding and can write programms.
+- 🙇🏻‍♂️ Hopefully I'll add more stuff/projects etc. on GitHub once I know more about coding and can write programs.
